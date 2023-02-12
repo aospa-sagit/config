@@ -1,0 +1,20 @@
+{
+  "updates": [
+    {
+      "date": "2023-02-12",
+      "datetime": "1676216596",
+      "filename": "aospa-topaz-unofficial-sagit-20230212.zip",
+      "url": "https://down.warbler.cc/d/XiaoMi-6/AOSPA/topaz/aospa-topaz-unofficial-sagit-20230212.zip",
+      "mirror": "",
+      "telegram": "https://t.me/Nanhumly",
+      "id": "3ad0216e4ab91417b0985d70d97b4b60620a6dd5a60734cfeb63e6cf27f89b0e",
+      "size": "1583363310",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-02-05",
+      "changelog_device": "Initial Beta Release"
+    }
+  ]
+}
