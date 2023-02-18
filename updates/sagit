@@ -1,14 +1,14 @@
 {
   "updates": [
     {
-      "date": "2023-02-12",
-      "datetime": "1676216596",
-      "filename": "aospa-topaz-unofficial-sagit-20230212.zip",
-      "url": "https://down.warbler.cc/d/XiaoMi-6/AOSPA/topaz/aospa-topaz-unofficial-sagit-20230212.zip",
+      "date": "2023-02-18",
+      "datetime": "1676706164",
+      "filename": "aospa-topaz-unofficial-sagit-20230218.zip",
+      "url": "https://down.warbler.cc/d/XiaoMi-6/AOSPA/topaz/aospa-topaz-unofficial-sagit-20230218.zip",
       "mirror": "",
       "telegram": "https://t.me/Nanhumly",
-      "id": "3ad0216e4ab91417b0985d70d97b4b60620a6dd5a60734cfeb63e6cf27f89b0e",
-      "size": "1583363310",
+      "id": "a1b6aff6a6b120b0dfb32e87f8a2981571deeb3047aa94a102f4290c17c33624",
+      "size": "1673553271",
       "build_type": "Beta",
       "version_code": "1",
       "version": "Topaz",
