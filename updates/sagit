@@ -1,20 +1,20 @@
 {
   "updates": [
     {
-      "date": "2023-03-04",
-      "datetime": "1677916715",
-      "filename": "aospa-topaz-unofficial-sagit-20230304.zip",
-      "url": "https://down.warbler.cc/d/XiaoMi-6/AOSPA/topaz/aospa-topaz-unofficial-sagit-20230304.zip",
+      "date": "2023-03-11",
+      "datetime": "1678531868",
+      "filename": "aospa-topaz-unofficial-sagit-20230311.zip",
+      "url": "https://down.warbler.cc/d/XiaoMi-6/AOSPA/topaz/aospa-topaz-unofficial-sagit-20230311.zip",
       "mirror": "",
       "telegram": "https://t.me/Nanhumly",
-      "id": "ffee84f1049f54b418caea35a94ed9f3d62c6e52912ce3746f16b1c5a49ee462",
-      "size": "1673641650",
-      "build_type": "Beta",
+      "id": "aafcd5f360b4ecb2ed3739302b86c42f948ade87d74df7cbd6622ef3a3c167ee",
+      "size": "1655240989",
+      "build_type": "Stable",
       "version_code": "1",
       "version": "Topaz",
       "android_version": "13",
       "android_spl": "2023-02-05",
-      "changelog_device": "Initial Beta Release"
+      "changelog_device": "First stable release"
     }
   ]
 }
